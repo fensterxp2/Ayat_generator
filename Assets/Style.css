@@ -9,7 +9,7 @@ h1{
     font-family: 'Reem Kufi', sans-serif;
     font-size: 160px;
     color: white;
-    transform: translateY(-50%);
+    
 }
 h1 span{
     font-size: 60px;
@@ -37,9 +37,7 @@ h3{
     height: 100%;
     gap: 10px;
 }
-.header{
-    transform: translateY(-40%);
-}
+
 
 button{
     border: 2px solid white;
